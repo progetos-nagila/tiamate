@@ -3,6 +3,10 @@ module.exports = {
     content: [],
     theme: {
       extend: {
+        fontFamily: {
+          archivo: ["Archivo", "sans-serif"],
+        },
+        
         colors: {
            "terracota": '#64221D',
            " mostarda": "#F7AE1A",
